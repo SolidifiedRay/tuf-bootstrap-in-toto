@@ -1,8 +1,8 @@
 {
  "signatures": [
   {
-   "keyid": "f57bb7c1b5d1f321d5cfb4378a5a147467fae6711f056327a3fb60ba5ad6bce2",
-   "sig": "acfff1d1f8ef1c864ca8cbc190a779f2df2ddb0299872b9bff18675840303c0ccdd88f946cbabdd90d10fbdbf840baf4e87ff72fbd83b97dd9537ce4d0a0230e"
+   "keyid": "bad_keyid",
+   "sig": "bad_sig"
   }
  ],
  "signed": {

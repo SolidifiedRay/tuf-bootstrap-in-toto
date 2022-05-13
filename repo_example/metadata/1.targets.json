@@ -1,13 +1,13 @@
 {
  "signatures": [
   {
-   "keyid": "c57763788c6eeea554c760cfa1d6fd169d6d8cfe408a986226782bd25599e1a3",
-   "sig": "5e9b48e6c1482e95012dc7898f0fee74408f6de26dce51822cacfc196988aba8214a87fdd4d36eaa735fba67475889064134219e773d65d7760f4a1a2095930d"
+   "keyid": "546db31f219ce63eb8957326bc9372768b603ae31f52598b5342c214baa040a8",
+   "sig": "e5aef86e4c4c83d5eff9c81c1c93b893d51952cc2e531419c005753bf5d519d8d23752c86a089cf933333904b18dd075022662e4dd9aad55e98f03a49d97240b"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2022-05-13T03:04:51Z",
+  "expires": "2022-05-20T19:14:56Z",
   "spec_version": "1.0.29",
   "targets": {
    "alice.pub": {
